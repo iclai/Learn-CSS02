@@ -2,5 +2,6 @@
 
 * [background-position](README.md)
 * [border-radius圓角](border-radius.md)
-* [Block & inline](block-and-inline.md)
+* [inline-block](block-and-inline.md)
+* [Block & inline](block-and-inline-1.md)
 

@@ -1,4 +1,8 @@
-# Block & inline
+---
+description: 'display:inline-block 可設定區塊寬度與高度'
+---
+
+# inline-block
 
 Block 會佔據網頁或是容器的最大寬度，一個div就是一個網頁區塊。
 
