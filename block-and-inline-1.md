@@ -9,5 +9,7 @@ description: 'display:block 與 display:inline'
 
 **block** 可以設定它的高度、寬度、上下距離，屬於block區塊元素的有: div、p、ul、li等。**inline**則無法設定高度、寬度，它完全是以文字大小或是圖片大小所佔的寬度來算，屬於inline元素的有: span、a 、 input、img、em等。
 
+![css &#x8A2D;&#x5B9A;&#x6210;inline](.gitbook/assets/image%20%2815%29.png)
 
+![](.gitbook/assets/image%20%2814%29.png)
 
