@@ -52,7 +52,7 @@ background-position:10%;　// 效果同上一行，靠左 10% 靠上 50% 的位�
 
 _**背景圖片只能顯示在網頁容器裡面，超出容器就會被切掉。**_
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
 背景屬性也可以有背景圖片也有背景顏色!
 
