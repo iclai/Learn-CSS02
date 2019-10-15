@@ -12,5 +12,7 @@
 
 ### **`visibility: hidden`**
 
+這屬性也可以隱藏，但會佔據網頁空間
+
 ![](../.gitbook/assets/image%20%2814%29.png)
 
