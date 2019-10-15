@@ -4,17 +4,17 @@
 
 很常運用在隱藏多餘文字上。
 
-![](.gitbook/assets/image%20%2822%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 ### `overflow: auto`
 
 預設就是會自動產生捲軸效果，但要請先設定寬或是高。
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 ### `overflow: visible`
 
@@ -28,7 +28,7 @@
     }
 ```
 
-![](.gitbook/assets/image%20%2831%29.png)
+![](.gitbook/assets/image%20%2832%29.png)
 
 ### `overflow: scroll`
 
@@ -41,7 +41,7 @@
     }
 ```
 
-![](.gitbook/assets/image%20%2834%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
 指定卷軸會自動產生水平捲軸，如果不想讓水平卷軸出現，也可以這樣寫
 
@@ -50,5 +50,5 @@ overflow-x: hidden;
 overflow-y: auto;
 ```
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
