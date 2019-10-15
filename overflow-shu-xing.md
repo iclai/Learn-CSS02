@@ -23,7 +23,8 @@
 ```css
 .Text3 {
       height: 75px;
-      overflow: visible;
+      overflow-x: hidden;
+      overflow-y: auto;
     }
 ```
 
