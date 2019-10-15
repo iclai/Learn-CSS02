@@ -4,7 +4,7 @@ description: 'display:inline-block 可設定區塊寬度與高度'
 
 # inline-block
 
-Block 會佔據網頁或是容器的最大寬度，一個div就是一個網頁區塊。
+div區塊會佔據網頁或是容器的最大寬度，一個div就是一個網頁區塊。
 
 ![](.gitbook/assets/image%20%2813%29.png)
 
@@ -12,9 +12,11 @@ Block 會佔據網頁或是容器的最大寬度，一個div就是一個網頁�
 
 ![](.gitbook/assets/image%20%2810%29.png)
 
+### **`display:inline-block`**
+
+CSS中，`display:inline-block` 屬性可以將網頁元素水平排列，且擁有block的屬性，可以設定寬、高、上、下外距等屬性，假設你需要將兩個或是很多個div區塊水平排列，就可以使用。
 
 
-CSS中，`display:inline-block` 屬性可以將網頁元素水平排列，假設你需要將兩個或是很多個div區塊水平排列，就可以使用。
 
 ![](.gitbook/assets/image%20%284%29.png)
 
