@@ -6,7 +6,7 @@ description: 'display:inline-block 可設定區塊寬度與高度'
 
 div區塊會佔據網頁或是容器的最大寬度，一個div就是一個網頁區塊。
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 當你給容器一個寬度時，容器就會按照你設定的寬度來顯示大小，但他不會水平排列。
 

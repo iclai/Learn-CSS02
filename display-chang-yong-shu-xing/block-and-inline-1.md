@@ -13,9 +13,9 @@ description: 'display:block 與 display:inline'
 
 **inline 會將元素都視為同一行。**
 
-![css &#x8A2D;&#x5B9A;&#x6210;inline](../.gitbook/assets/image%20%2816%29.png)
+![css &#x8A2D;&#x5B9A;&#x6210;inline](../.gitbook/assets/image%20%2819%29.png)
 
 **block區塊的呈現方式，會被強迫換行。**
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
