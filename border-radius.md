@@ -8,7 +8,7 @@ border-radius: 50%;
 
 ![](.gitbook/assets/image%20%288%29.png)
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 ![](.gitbook/assets/image%20%286%29.png)
 
@@ -20,5 +20,5 @@ border-radius: 50%;
 
 ## [CSS3 Rounded Corner Generator](https://www.cssportal.com/css3-rounded-corner/)
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
