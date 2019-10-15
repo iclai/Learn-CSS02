@@ -16,3 +16,9 @@
 
 ![](.gitbook/assets/image%20%2815%29.png)
 
+### `overflow: visible`
+
+超出的範圍的文字並不會隱藏，會直接顯示出來
+
+![](.gitbook/assets/image%20%2823%29.png)
+
