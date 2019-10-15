@@ -20,5 +20,32 @@
 
 超出的範圍的文字並不會隱藏，會直接顯示出來
 
+```css
+.Text3 {
+      height: 75px;
+      overflow: visible;
+    }
+```
+
 ![](.gitbook/assets/image%20%2823%29.png)
+
+### `overflow: scroll`
+
+直接以捲軸呈現。
+
+```css
+ .Text3 {
+      height: 75px;
+      overflow: scroll;
+    }
+```
+
+![](.gitbook/assets/image%20%2825%29.png)
+
+指定卷軸會自動產生水平捲軸，如果不想讓水平卷軸出現，也可以這樣寫
+
+```css
+overflow-x: hidden;
+overflow-y: auto;
+```
 
