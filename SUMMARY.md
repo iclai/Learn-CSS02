@@ -6,4 +6,5 @@
   * [Block & inline](display-chang-yong-shu-xing/block-and-inline-1.md)
   * [inline-block](display-chang-yong-shu-xing/block-and-inline.md)
   * [display:none](display-chang-yong-shu-xing/display-none.md)
+* [overflow 屬性](overflow-shu-xing.md)
 
