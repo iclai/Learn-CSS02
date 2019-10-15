@@ -4,6 +4,8 @@ description: 'display:block 與 display:inline'
 
 # Block & inline
 
+## CSS中常用的Display屬性
+
 * `display:block` - 區塊、元素會以區塊方式呈現，除非設定 position\(位置\) 或 float\(浮動\)。 
 * `display:inline` - 所有文字或圖片元素都不會換行，也就是全部都會是同一行的意思。
 
