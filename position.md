@@ -68,9 +68,9 @@ absolute會相對於它的父元素進行定位元素定位，如果沒有父元
     }
 ```
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
-![](.gitbook/assets/image%20%2831%29.png)
+![](.gitbook/assets/image%20%2832%29.png)
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
