@@ -20,5 +20,5 @@ border-radius: 50%;
 
 ## [CSS3 Rounded Corner Generator](https://www.cssportal.com/css3-rounded-corner/)
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
