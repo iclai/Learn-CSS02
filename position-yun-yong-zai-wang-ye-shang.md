@@ -29,7 +29,7 @@ Position 在網頁拼板上，很常運用到。
 
 將nav加入背景色比較容易識別，並讓選單靠上靠左貼其瀏覽器。
 
-![](.gitbook/assets/image%20%2839%29.png)
+![](.gitbook/assets/image%20%2840%29.png)
 
 讓選單呈現水平排列
 
@@ -58,13 +58,13 @@ Position 在網頁拼板上，很常運用到。
     }
 ```
 
-![](.gitbook/assets/image%20%2846%29.png)
+![](.gitbook/assets/image%20%2848%29.png)
 
 ![](.gitbook/assets/image%20%283%29.png)
 
 製作Banner橫幅，把圖片叫進網頁中，圖片叫進來，並不會符合瀏覽器的寬度，所以要設定img的寬度。
 
-![](.gitbook/assets/image%20%2822%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 ```css
 section {
@@ -85,5 +85,29 @@ section {
 }
 ```
 
-![](.gitbook/assets/image%20%2841%29.png)
+![](.gitbook/assets/image%20%2843%29.png)
+
+網頁內容左右設距離
+
+```css
+.content {
+  padding: 150px 200px;
+}
+```
+
+![](.gitbook/assets/image%20%289%29.png)
+
+```css
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: rgb(201, 201, 201);
+  width: 100%;
+  text-align: center;
+}
+```
+
+![](.gitbook/assets/image%20%2842%29.png)
 
