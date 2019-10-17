@@ -31,3 +31,32 @@ Position 在網頁拼板上，很常運用到。
 
 ![](.gitbook/assets/image%20%2836%29.png)
 
+讓選單呈現水平排列
+
+```css
+ /* 選單 */
+    nav {
+      position: fixed;
+      width: 100%;
+      border: solid 2px #1288ac;
+      display: block;
+      background-color: rgb(6, 135, 179);
+      top: 0;
+      left: 0;
+    }
+
+    nav ul {
+      list-style: none;
+    }
+
+    nav ul li {
+      display: inline-block;
+      width: 150px;
+      height: 50px;
+      background-color: rgb(255, 254, 180);
+      margin: 10px;
+    }
+```
+
+![](.gitbook/assets/image%20%2842%29.png)
+
