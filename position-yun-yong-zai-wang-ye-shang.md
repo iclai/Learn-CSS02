@@ -27,5 +27,7 @@ Position 在網頁拼板上，很常運用到。
 
 [https://meyerweb.com/eric/tools/css/reset/](https://meyerweb.com/eric/tools/css/reset/)
 
-將選單加入背景色比較容易識別，
+將nav加入背景色比較容易識別，並讓選單靠上靠左貼其瀏覽器。
+
+![](.gitbook/assets/image%20%2836%29.png)
 

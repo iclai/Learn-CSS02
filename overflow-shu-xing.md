@@ -28,7 +28,7 @@
     }
 ```
 
-![](.gitbook/assets/image%20%2837%29.png)
+![](.gitbook/assets/image%20%2838%29.png)
 
 ### `overflow: scroll`
 
@@ -41,7 +41,7 @@
     }
 ```
 
-![](.gitbook/assets/image%20%2840%29.png)
+![](.gitbook/assets/image%20%2841%29.png)
 
 指定卷軸會自動產生水平捲軸，如果不想讓水平卷軸出現，也可以這樣寫
 
