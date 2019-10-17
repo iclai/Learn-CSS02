@@ -6,7 +6,7 @@ Position 在網頁拼板上，很常運用到。
 
 會看到右邊預覽只有一條紅線，因為外框裡面沒有塞東西進去，版面還沒有撐起來。
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
 建立ul選單
 
@@ -29,7 +29,7 @@ Position 在網頁拼板上，很常運用到。
 
 將nav加入背景色比較容易識別，並讓選單靠上靠左貼其瀏覽器。
 
-![](.gitbook/assets/image%20%2840%29.png)
+![](.gitbook/assets/image%20%2841%29.png)
 
 讓選單呈現水平排列
 
@@ -58,13 +58,13 @@ Position 在網頁拼板上，很常運用到。
     }
 ```
 
-![](.gitbook/assets/image%20%2848%29.png)
+![](.gitbook/assets/image%20%2849%29.png)
 
 ![](.gitbook/assets/image%20%283%29.png)
 
 製作Banner橫幅，把圖片叫進網頁中，圖片叫進來，並不會符合瀏覽器的寬度，所以要設定img的寬度。
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 ```css
 section {
@@ -85,7 +85,7 @@ section {
 }
 ```
 
-![](.gitbook/assets/image%20%2843%29.png)
+![](.gitbook/assets/image%20%2844%29.png)
 
 網頁內容左右設距離
 
@@ -95,7 +95,7 @@ section {
 }
 ```
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 ```css
 footer {
@@ -109,5 +109,15 @@ footer {
 }
 ```
 
-![](.gitbook/assets/image%20%2842%29.png)
+![](.gitbook/assets/image%20%2843%29.png)
+
+由於Banner往上移動時會蓋住選單，所以要設定讓Banner往下一層，讓選單往上一層
+
+ ​**`z-index`** 可以設定圖層，數字越大，表示層次在越上層，數字越小，表示圖層在越下層。
+
+```css
+z-index: 1;
+```
+
+![](.gitbook/assets/image%20%287%29.png)
 
