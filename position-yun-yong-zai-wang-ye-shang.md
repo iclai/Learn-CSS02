@@ -58,7 +58,7 @@ Position 在網頁拼板上，很常運用到。
     }
 ```
 
-![](.gitbook/assets/image%20%2845%29.png)
+![](.gitbook/assets/image%20%2846%29.png)
 
 ![](.gitbook/assets/image%20%283%29.png)
 
@@ -67,6 +67,9 @@ Position 在網頁拼板上，很常運用到。
 ![](.gitbook/assets/image%20%2822%29.png)
 
 ```css
+section {
+  position: relative;
+}
 .banner {
   position: relative;
   top: 104px;
@@ -81,4 +84,6 @@ Position 在網頁拼板上，很常運用到。
   left: 300px;
 }
 ```
+
+![](.gitbook/assets/image%20%2841%29.png)
 
