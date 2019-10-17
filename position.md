@@ -6,7 +6,6 @@ Position屬性元素有以下幾種
 * relative
 * absolute
 * fixed
-* inherit
 
 ### static
 
