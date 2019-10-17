@@ -24,9 +24,9 @@ CSS的背景屬性background-position 分成三種表示方式：關鍵字、像
 background-attachment: fixed; /*寫入這一行，才能讓圖片在Firefox 和 Chrome 正常出現你要的位置*/
 ```
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 
 
@@ -52,9 +52,9 @@ background-position:10%;　// 效果同上一行，靠左 10% 靠上 50% 的位�
 
 _**背景圖片只能顯示在網頁容器裡面，超出容器就會被切掉。**_
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 背景屬性也可以有背景圖片也有背景顏色!
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 

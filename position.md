@@ -68,11 +68,11 @@ absolute會相對於它的父元素進行定位元素定位，如果沒有父元
     }
 ```
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
 最外框父元素設定相對定位 `position: relative;` 它的子元素\(也就是今日公告\)套用絕對定位 `position: absolute;` 就會以父元素來做定位的標準。
 
