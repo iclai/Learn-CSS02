@@ -21,11 +21,10 @@
 超出的範圍的文字並不會隱藏，會直接顯示出來
 
 ```css
-.Text3 {
-      height: 75px;
-      overflow-x: hidden;
-      overflow-y: auto;
-    }
+ .Text2 {
+    overflow: visible;
+    height: 75px;
+ }
 ```
 
 ![](.gitbook/assets/image%20%2845%29.png)
