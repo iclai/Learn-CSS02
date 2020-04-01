@@ -1,3 +1,7 @@
+---
+description: 賴怡靜
+---
+
 # background-position
 
 ### background-position設定背景位置
